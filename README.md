@@ -1,6 +1,6 @@
 ### Kia Ora 👋
 
-Ko Leighton tōku ingoa, Nō Aotearoa ōku tīpuna, Kei te noho au ki Ōtepoti.
+Ko Leighton tōku ingoa, nō Aotearoa ōku tīpuna, kei te noho au ki Ōtepoti.
 
 I'm a PhD candidate studying in the department of <a href="https://micro.otago.ac.nz/" class="link blue">Microbiology and Immunology</a> at the <a href="https://www.otago.ac.nz/" class="link blue">University of Otago</a>, New Zealand.
 
