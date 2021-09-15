@@ -1,4 +1,4 @@
-### Kia Ora 👋
+### Kia Ora 👋🏼
 
 Ko Leighton tōku ingoa, nō Aotearoa ōku tīpuna, kei te noho au ki Ōtepoti.
 
